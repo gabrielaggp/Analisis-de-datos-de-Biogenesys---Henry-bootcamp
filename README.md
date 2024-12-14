@@ -1,6 +1,5 @@
 # Analisis-de-datos-de-Biogenesys---Henry-bootcamp
 
-Python Script for COVID-19 Data Analysis
 This repository includes the Python script used for the exploratory data analysis (EDA) and data processing tasks for the COVID-19 Impact Analysis project in Latin America. The script contains:
 
 Data Cleaning: Handling missing values and transforming key columns.
